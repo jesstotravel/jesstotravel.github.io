@@ -25,10 +25,10 @@ section {
           align-items: center;
 }
 section:nth-child(2) {
-  background-image: url(../images/timeline/18_950px.jpg);
+  background-image: url(../images/post/otaru1.jpg);
 }
 section:nth-child(3) {
-  background-image: url(../images/timeline/23_950px.jpg);
+  background-color:rgba(51,102,204,0.5);
 }
 section:nth-child(4) {
   background-image: url(../images/timeline/21_979px.jpg);
